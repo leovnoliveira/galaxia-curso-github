@@ -40,7 +40,7 @@ Para autenticar seu computador com o GitHub, você precisará gerar chaves SSH.
    cat id_rsa.pub
 
 4. Copiar essa chave e adicionar ao GitHub:
-   * Vá para [GitHub Settings](](https://github.com/settings/keys) > [SSH and GPG keys](https://github.com/settings/keys).
+   * Vá para [GitHub Settings](https://github.com/settings/keys) > [SSH and GPG keys](https://github.com/settings/keys).
   
 
 ## Autenticação no VSCode
