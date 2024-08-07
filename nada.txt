@@ -1,0 +1,8 @@
+$ git branch -D <nome_da_branch> # vai deletar a branch.
+
+E branch são galhos feitos para corrigir bugs, alterações no código, etc. Então devem
+ser deletadas depois de cumprirem seu propósito.
+
+
+Mas mesmo deletada a branch, ela continua no historico do GitHub pois voce commitou ela.
+Para excluir permanentemente, só voltando no tempo no projeto com o revert
